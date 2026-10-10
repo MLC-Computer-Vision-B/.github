@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Computer Vision B
+# Machine Learning Collective - CS197 - Computer Vision B
 
 **Learning computer vision through research, collaboration, and implementation.**
 
